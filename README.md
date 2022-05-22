@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Sakthibats
-- 👀 I’m interested in Data Science, Software development, and Business Solutions
-- 🌱 I’m currently learning Business Analytics at NUS School of Computing
-- 💞️ I’m looking to collaborate on Internships regarding ML projects or Software Engineering
-- 📫 How to reach me? Email me at baskaran.sakthivel@gmail.com :)
+- 👋 Hi, I’m Abi
+trying out git
 
 <!---
 Sakthibats/Sakthibats is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
