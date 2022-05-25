@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sakthibats
+- 👋 Hi, I’m Sakthi
 - 👀 I’m interested in Data Science, Software development, and Business Solutions
 - 🌱 I’m currently learning Business Analytics at NUS School of Computing
 - 💞️ I’m looking to collaborate on Internships regarding ML projects or Software Engineering
